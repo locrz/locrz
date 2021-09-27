@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Lucas!
 
+🔭  I’m a Mobile developer with React Native with a good back-end experience.
 
-🔭  I’m currently working as Mobile developer with React Native at [PJBank Pagamentos S.A.](https://pjbank.com.br/), a Fintech from the [Superlogica Group](https://superlogica.com/)
-
+Here you can find all my personal and study projects.
 
 <!--
 **locrz/locrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
