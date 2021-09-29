@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm Lucas!
 
-🔭  I’m a Mobile developer with React Native with a good back-end experience.
+🔭  I’m a developer.
+
+- Web - React - NextJS - ChakraUI
+- Mobile - React Native
+- Backend - NodeJS - PHP - Cloud Functions
 
 Here you can find all my personal and study projects.
 
